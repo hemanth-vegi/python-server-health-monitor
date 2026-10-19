@@ -1,0 +1,4 @@
+cpu_limit: 80
+memory_limit: 80
+disk_limit: 80
+interval_seconds: 5
